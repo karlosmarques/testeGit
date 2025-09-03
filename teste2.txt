@@ -1,2 +1,6 @@
 sla
+<<<<<<< HEAD
 outro aquivo
+=======
+alguma coisa aí 
+>>>>>>> 098fac96fc1e619c5aa13ca841cfe71d10c199a1
